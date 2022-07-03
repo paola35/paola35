@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @paola35
 - 👀 I’m interested in web development & content creation
-- 🌱 I’m currently learning C to learn the logic and basic concept of programming
+- 🌱 I’m currently learning C to learn the logic and basic concept of programming 
 - 💞️ I’m looking to collaborate on a project about C
 - 📫 How to reach me: @burgospaola880@gmail.com
 
